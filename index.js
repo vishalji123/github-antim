@@ -12,3 +12,7 @@ let mul = (num)=>{
   return num*num*num
 }
 console.log(mul(2))
+
+// i am fixing sum bug
+
+console.log("bug fixed")
